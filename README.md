@@ -33,7 +33,7 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 ```
 
-### 5 Создание суперпользователя (опцианально)
+### 5 Создание суперпользователя (опционально)
 
 ```bash
 python3 manage.py createsuperuser
